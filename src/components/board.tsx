@@ -233,7 +233,7 @@ export class Board extends React.Component {
     return (
       <div>
         <IntroWrapper>
-          <h1> Welcome to Vicky's Coding Test </h1>
+          <h1> Welcome to Vicky's Coding Center </h1>
           <h3> Completed at 19/09/2021 </h3>
         </IntroWrapper>
         <DragDropContext
